@@ -1,2 +1,2 @@
 # Filr
-A bespoke filing macro for a company
+A bespoke filing macro
